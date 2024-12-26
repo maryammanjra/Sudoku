@@ -138,10 +138,6 @@ int main(void){
         columns->valid = 1;
     }
 
-    subgrids->column = 0;
-    subgrids->row = 0;
-    subgrids->valid = 1;
-
     int row_count = 0; 
     int col_count = 0; 
 
